@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# d97979d89618e9fa94814b15f3691d10a2648d13
+index.html
+# bd086a50932b6c42252c49b835cf92008ed472bb
+resources/fonts/lato-regular.ttf
+# b3fcdfa1675ddd8c0ec529ae41f61dd8a4e55c7e
+resources/fonts/lato-bold.ttf
+
+
+FALLBACK:
+
+
+NETWORK:
+*

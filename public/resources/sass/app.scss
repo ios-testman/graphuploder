@@ -1,0 +1,41 @@
+// The following two lines import the default Sencha Touch theme. If you are building
+// a new theme, remove them and the add your own CSS on top of the base CSS (which
+// is already included in your app.json file).
+@import 'sencha-touch/flat';
+@import 'sencha-touch/flat/all';
+
+// Custom code goes here..
+
+// Examples of using the icon mixin:
+@include icon('camera');
+
+feed {
+    background: #fff;
+}
+
+.feed-item {
+    margin: 0 2em;
+    padding: 1em;
+    background: #1abc9c;
+
+    img: {
+        border-top-left-radius: 0.3em;
+        border-top-right-radius: 0.3em;
+    }
+
+    .description {
+        background: #fff;
+        margin-top: -3px;
+        padding: 1em;
+        border-bottom-left-radius: 0.3em;
+        border-bottom-right-radius: 0.3em;
+        text-align: right;
+    }
+}
+
+.photo-form {
+    .x-form-fieldset, .x-button-action {
+        margin: 1em;
+    }
+}
+
