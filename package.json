@@ -1,7 +1,6 @@
 {
-  "name": "photo-sharing-app",
+  "name": "GraphUploader",
   "version": "0.0.1",
-  "repository": "https://github.com/kawanoshinobu/photo-sharing-app + alpha",
   "private": true,
   "scripts": {
     "start": "node web.js"

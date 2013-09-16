@@ -15,7 +15,7 @@ Ext.define('PS.view.Feed', {
         items: [
             {
                 xtype: 'titlebar',
-                title: 'Photo Sharing'
+                title: 'Graph Uploader'
             },
             {
                 xtype: 'dataview',
